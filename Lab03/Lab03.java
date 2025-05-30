@@ -12,11 +12,11 @@ public class Lab03 {
 
 
 
-        System.out.println("Starting milliseconds: \t " + milliseconds);
-        System.out.println("Hours: \t\t\t\t " + hours);
-        System.out.println("Minutes: \t\t\t " + minutes);
-        System.out.println("Seconds: \t\t\t " + seconds2);
-        System.out.println("Milliseconds2: \t\t\t " + milliseconds2);
+        System.out.println("Starting milliseconds: " + milliseconds);
+        System.out.println("Hours: \t\t\t\t   " + hours);
+        System.out.println("Minutes: \t\t\t   " + minutes);
+        System.out.println("Seconds: \t\t\t   " + seconds2);
+        System.out.println("Milliseconds2: \t\t   " + milliseconds2);
 
 
 
